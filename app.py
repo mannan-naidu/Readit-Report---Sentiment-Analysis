@@ -4,8 +4,8 @@ import pandas as pd
 from transformers import pipeline
 
 # --- Page Configuration and Title ---
-st.set_page_config(page_title="Redditsight", layout="wide")
-st.title("Redditsight: Reddit Topic Analyzer 📈")
+st.set_page_config(page_title="Readit Report", layout="wide")
+st.title("The Readit Report 📈")
 
 # --- Reddit API Credentials ---
 try:
