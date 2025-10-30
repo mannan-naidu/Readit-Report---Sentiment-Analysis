@@ -1,6 +1,6 @@
-# Redditsight: Context-Aware Reddit Sentiment Analyzer 📈
+# The Readit Report 📈
 
-Redditsight is an interactive web application built with Streamlit that allows you to scrape and analyze discussions from Reddit. It goes beyond simple sentiment analysis by incorporating conversational context, sarcasm detection, and a state-of-the-art AI model to provide nuanced insights into public opinion.
+Readit is an interactive web application built with Streamlit that allows you to scrape and analyze discussions from Reddit. It goes beyond simple sentiment analysis by incorporating conversational context, sarcasm detection, and a state-of-the-art AI model to provide nuanced insights into public opinion.
 
 
 
